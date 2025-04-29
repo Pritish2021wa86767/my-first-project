@@ -1,0 +1,10 @@
+Creation of Project / Repository
+•	Step1: Name the Project
+•	Step2: Add description to the Project
+•	Step3: Select the Project to be a Public 
+•	Step4: Check the Box for initialize an empty repository and clone on your local machine
+•	Step5: Observe the created repository – Check readme.md file
+•	Step6: Upload Code files to the repository
+
+
+	
